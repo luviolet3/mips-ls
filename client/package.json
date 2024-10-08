@@ -1,0 +1,21 @@
+{
+  "name": "mips-ls",
+  "description": "Language Server for MIPS",
+  "author": "violet",
+  "license": "MIT",
+  "version": "0.0.1",
+  "publisher": "luviolet3",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luviolet3/mips-ls.git"
+  },
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "dependencies": {
+    "vscode-languageclient": "^8.1.0"
+  },
+  "devDependencies": {
+    "@types/vscode": "^1.81.0"
+  }
+}
